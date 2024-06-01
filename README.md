@@ -1,4 +1,4 @@
-# ** Pizza Runner Case Study**
+# **Pizza Runner Case Study**
 
 ---
 
